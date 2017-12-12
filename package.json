@@ -1,0 +1,15 @@
+{
+  "name": "appium-starter",
+  "version": "1.0.0",
+  "description": "appium boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appium",
+    "boilerplate"
+  ],
+  "author": "sendhil.r@gmail.com",
+  "license": "MIT"
+}
