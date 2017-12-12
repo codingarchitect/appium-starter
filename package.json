@@ -13,8 +13,5 @@
   ],
   "author": "sendhil.r@gmail.com",
   "license": "MIT",
-  "dependencies": {
-    "appium": "^1.7.1",
-    "appium-doctor": "^1.4.3"
-  }
+  "dependencies": {}
 }
