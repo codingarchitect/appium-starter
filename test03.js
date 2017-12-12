@@ -19,6 +19,7 @@ config.android19Hybrid = {
 appDriver.run(function*() {
   // 'this' is appDriver
   var session = yield this.init(config.android19Hybrid);
-  var txtZip = yield this.elementByName('userName');
+  var txtUserName = yield this.elementByName('userName');
+  yield txtUserName.sendKeys('sendhil');
   this.quit();
 });
