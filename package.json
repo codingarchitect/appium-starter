@@ -14,7 +14,8 @@
   "author": "sendhil.r@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "wd": "^1.5.0"
+    "wd": "^1.5.0",
+    "yiewd": "^0.6.0"
   },
   "respository": "https://github.com/codingarchitect/appium-starter",
   "devDependencies": {}
