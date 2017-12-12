@@ -16,5 +16,12 @@
   "dependencies": {
     "wdio": "^1.0.3"
   },
-  "respository": "https://github.com/codingarchitect/appium-starter"
+  "respository": "https://github.com/codingarchitect/appium-starter",
+  "devDependencies": {
+    "wdio-allure-reporter": "^0.1.2",
+    "wdio-appium-service": "^0.2.3",
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-junit-reporter": "^0.3.1",
+    "wdio-mocha-framework": "^0.5.12"
+  }
 }
