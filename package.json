@@ -13,5 +13,8 @@
   ],
   "author": "sendhil.r@gmail.com",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "wdio": "^1.0.3"
+  },
+  "respository": "https://github.com/codingarchitect/appium-starter"
 }
